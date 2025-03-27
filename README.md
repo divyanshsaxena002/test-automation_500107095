@@ -98,7 +98,7 @@ These issues were resolved by:
 
 Here's a screenshot of the generated test report:
 
-![Test Report](docs/test-report.png)
+![Test Report](https://github.com/divyanshsaxena002/test-automation_500107095/blob/1a0e7b8f688c27871fe567e718cc729596b561e1/test-report.png)
 
 _Note: The screenshot shows the test execution results including passed tests, coverage information, and performance metrics._
 
